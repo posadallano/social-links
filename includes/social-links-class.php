@@ -3,7 +3,7 @@
 class Social_Links_Widget extends WP_Widget {
 
 	/**
-	 * Sets up the widgets name etc
+	 * Sets up the widgets name etc  
 	 */
 	public function __construct() {
 		$widget_ops = array( 
